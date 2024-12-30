@@ -1,7 +1,3 @@
-Here is the revised `README.md` file with the requested changes:
-
----
-
 # **Dynamic Voice Chatbot with RAG Integration**
 
 ## **Project Overview**
